@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DpacWrsReports", "DpacWrsReports\DpacWrsReports.rptproj", "{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.Debug|Default.ActiveCfg = Debug
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.Debug|Default.Build.0 = Debug
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.Debug|Default.Deploy.0 = Debug
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.DebugLocal|Default.Build.0 = DebugLocal
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.Release|Default.ActiveCfg = Release
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.Release|Default.Build.0 = Release
+		{C5B6E24A-5655-46F2-AB04-21E87CE3DCA8}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {312E5438-539E-4676-AEF5-B88086FD1F4F}
+	EndGlobalSection
+EndGlobal
